@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T21:06:42.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="4MCFD_L4FMwYMg4of2bb" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T21:09:32.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="GQ3DsEqpdHDkGER-YNYE" version="21.3.7" type="github">
   <diagram id="-rjhTyjBhZZxLoLLz195" name="Khung Kiến Trúc">
-    <mxGraphModel dx="2219" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2219" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hJ6VZego3gvxPcoqJgLT-13" value="&lt;b style=&quot;&quot;&gt;Đăng ký Bot&lt;br&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=right;fontSize=12;image=img/lib/azure2/integration/Partner_Registration.svg;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="233.2" y="555.8" width="36.8" height="34.2" as="geometry" />
+          <mxGeometry x="220" y="562.55" width="36.8" height="34.2" as="geometry" />
         </mxCell>
         <mxCell id="hJ6VZego3gvxPcoqJgLT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=none;startFill=0;strokeWidth=3;strokeColor=#FF3E17;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
