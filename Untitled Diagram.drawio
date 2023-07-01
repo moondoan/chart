@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T01:41:52.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="74YJrxfez6WXJB2wYGOP" version="21.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-01T01:46:15.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="JyP4d9zFtFAGOGzH_7os" version="21.5.1" type="github" pages="2">
   <diagram id="-rjhTyjBhZZxLoLLz195" name="Khung Kiến Trúc">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -378,6 +378,24 @@
             <mxPoint x="884.75" y="280" as="sourcePoint" />
             <mxPoint x="884.5" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ka0vmp8pcthDXI_Qpsu1-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="C3aXj7Kf3Sdo1YH-Okw3-1">
+          <mxGeometry x="335" y="214" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ka0vmp8pcthDXI_Qpsu1-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="C3aXj7Kf3Sdo1YH-Okw3-1">
+          <mxGeometry x="650" y="266" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ka0vmp8pcthDXI_Qpsu1-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="C3aXj7Kf3Sdo1YH-Okw3-1">
+          <mxGeometry x="720" y="194" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ka0vmp8pcthDXI_Qpsu1-5" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="C3aXj7Kf3Sdo1YH-Okw3-1">
+          <mxGeometry x="860" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ka0vmp8pcthDXI_Qpsu1-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="C3aXj7Kf3Sdo1YH-Okw3-1">
+          <mxGeometry x="420" y="397" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ka0vmp8pcthDXI_Qpsu1-7" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="C3aXj7Kf3Sdo1YH-Okw3-1">
+          <mxGeometry x="670" y="397" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
