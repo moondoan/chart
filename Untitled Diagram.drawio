@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T05:30:47.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="uvmDZfUnjMiEAzU2yyxH" version="21.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-12T05:32:51.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Uc2u8aS4iIi38typgJM_" version="21.5.2" type="github" pages="4">
   <diagram id="-rjhTyjBhZZxLoLLz195" name="Khung Kiến Trúc">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -488,12 +488,12 @@
       <root>
         <mxCell id="SwS9pULkt3TmcVPjEiSO-0" />
         <mxCell id="SwS9pULkt3TmcVPjEiSO-1" parent="SwS9pULkt3TmcVPjEiSO-0" />
-        <mxCell id="oZjS19UfelHxAwgMsgpS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SwS9pULkt3TmcVPjEiSO-1" source="SwS9pULkt3TmcVPjEiSO-9" target="SwS9pULkt3TmcVPjEiSO-11">
+        <mxCell id="oZjS19UfelHxAwgMsgpS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;fontStyle=1" edge="1" parent="SwS9pULkt3TmcVPjEiSO-1" source="SwS9pULkt3TmcVPjEiSO-9" target="SwS9pULkt3TmcVPjEiSO-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="422.73" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZjS19UfelHxAwgMsgpS-20" value="Service Lấy thông tin/Trả thông tin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingTop=14;" vertex="1" connectable="0" parent="oZjS19UfelHxAwgMsgpS-7">
+        <mxCell id="oZjS19UfelHxAwgMsgpS-20" value="Service Lấy thông tin/Trả thông tin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingTop=14;fontStyle=1" vertex="1" connectable="0" parent="oZjS19UfelHxAwgMsgpS-7">
           <mxGeometry x="-0.054" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
