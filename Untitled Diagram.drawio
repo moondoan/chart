@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T05:34:07.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="fbJf61hklgaQpLqU2UmI" version="21.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-12T05:34:53.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="4vGztg2N7sy_4QfnSmIM" version="21.5.2" type="github" pages="4">
   <diagram id="-rjhTyjBhZZxLoLLz195" name="Khung Kiến Trúc">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Schema_HienTrang_VienSotRet" id="egjOXHt5RJ9yZigndJcW">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="M6MlOK1lTnn5s93pobia-0" />
         <mxCell id="M6MlOK1lTnn5s93pobia-1" parent="M6MlOK1lTnn5s93pobia-0" />
@@ -484,7 +484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Schema_DeXuat_VienSotRet" id="kF9bOpE_R9ZJwf4Wm23b">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SwS9pULkt3TmcVPjEiSO-0" />
         <mxCell id="SwS9pULkt3TmcVPjEiSO-1" parent="SwS9pULkt3TmcVPjEiSO-0" />
